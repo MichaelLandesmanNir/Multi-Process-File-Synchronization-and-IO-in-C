@@ -3,11 +3,7 @@ Explore advanced file synchronization techniques and custom I/O operations in C.
 
 ## Getting Started
 
-To get started with these exercises, clone this repository to your local machine using the following command:
-
-```bash
-git clone <repository-url>
-Replace <repository-url> with the actual URL of this repository.
+To get started with these exercises, clone this repository to your local machine
 
 Prerequisites
 Ensure you have the following installed:
